@@ -1,0 +1,41 @@
+#Menu {
+	height: 40px;
+	background-color: orange;
+}
+#Menu ul {
+	margin: 0;
+	padding: 0;
+}
+#Menu li {
+	list-style-type: none;
+	float: left;
+	display: block;
+	width: 150px;
+	height: 60px;
+	text-align: center;
+	line-height: 45px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 18px;
+	}
+#Menu li a {
+	text-decoration: none;
+	color: #FFF;
+}
+#Menu li :Hover {
+	background-color: black;
+}
+#Menul ul {
+	margin: 0;
+	padding: 0;
+}
+#Menul li {
+	list-style-type: none;
+	float: left;
+	display: block;
+	width: 150px;
+	height: 60px;
+	text-align: center;
+	line-height: 45px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 18px;
+	}
